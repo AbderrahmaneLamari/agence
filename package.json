@@ -19,9 +19,6 @@
     "sass": "^1.92.1",
     "typescript": "~3.7.2"
   },
-  "engines": {
-    "node": "18.x"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build --openssl-legacy-provider",
