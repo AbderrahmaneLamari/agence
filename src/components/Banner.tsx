@@ -11,7 +11,7 @@ const Banner: React.FC = () => {
               <span>Creating unique brands is</span>
             </div>
             <div className='line'>
-              <span>what we do.</span>
+              <span>d acu nexdem</span>
             </div>
           </h2>
           <div className='btn-row'>
